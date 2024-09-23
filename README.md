@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChinthakaDilshan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning in ICET institute
+- 🌱 I’m  learning in ICET institute
 - 💞️ I’m looking to collaborate on software developer
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
