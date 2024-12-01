@@ -54,14 +54,14 @@
 <h3 align="left">Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,tailwind" />
+    <img src="https://skillicons.dev/icons?i=jquery" />
   </a>
 </p>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,expressjs" />
   </a>
 </p>
 
@@ -75,14 +75,14 @@
 <h3 align="left">Tools</h3>
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
 </a>
 </p>
 
 <h3 align="left">Design Tools</h3>
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,ps" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </a>
 </p>
 
