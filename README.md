@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nethmi-isurika-daniel-144008221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChinthakaDilshan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinthaka-dilshan-398810281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChinthakaDilshan" height="30" width="40" /></a>
   <a href="dilshanperera0913@gmail.com">
     <img target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" />
   </a>
